@@ -44,14 +44,11 @@ height: 750px;
 }
 
 
+
 .footer{
-    padding: 10px 0;
-    background-color: #101010;
-    color:#9d9d9d;
-    bottom: 0;
-    width: 100%;
-    position:fixed;
-    bottom: 0;
+         background-color: #000;
+ color:#fff;
+ font-size:14px;
 }
 
 .row_style{
